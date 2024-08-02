@@ -1,4 +1,4 @@
-# 🦸‍♂️ Jonathan Segev 🌟
+# 🕵️‍♂️ JonnyHack 🕵️‍♂️
 
 ## Welcome to My World of Code! 🌍
 
@@ -6,11 +6,11 @@ Hey there, fellow coder! Welcome to my GitHub kingdom, where creativity meets co
 
 ## About Me 👨‍💻
 
-I'm **Jonathan Segev**, a Full-Stack Developer and Data Analyst with a Bachelor's degree in Computer Science. My superpower? Turning coffee into code, one commit at a time. I specialize in building robust, scalable applications and extracting insights from data. My curiosity knows no bounds—I'm always diving into new technologies, exploring the unknown, and pushing the boundaries of what's possible.
+I'm a Full-Stack Developer and Data Analyst with a Bachelor's degree in Computer Science. My superpower? Turning coffee into code, one commit at a time. I specialize in building robust, scalable applications and extracting insights from data. My curiosity knows no bounds—I'm always diving into new technologies, exploring the unknown, and pushing the boundaries of what's possible.
 
 ### Fun Facts:
-- 🌟 **Favorite Language**: [Your Favorite Language]
-- 🎮 **When I'm not coding**: You'll find me [Your Hobbies]
+- 🌟 **Favorite Language**: [Python]
+- 🏋️ **When I'm not coding**: You'll find me in [gym]
 - 💡 **Philosophy**: Code, break, learn, repeat.
 
 ## My Projects 🚀
@@ -28,8 +28,8 @@ I'm constantly working on new projects, so stay tuned for more cool stuff!
 Got a cool idea? Want to team up on a project? I'm always open to collaboration and love meeting new people in the tech community. Don't hesitate to reach out!
 
 ### How to Reach Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)]([Your LinkedIn Profile URL]) 
-[![Email](https://img.shields.io/badge/Email-Send%20Email-red?logo=gmail&style=for-the-badge)](mailto:[Your Email Address])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jonathan-segev-aaa970222/) 
+[![Email](https://img.shields.io/badge/Email-Send%20Email-red?logo=gmail&style=for-the-badge)](mailto:yonhar2002@gmail.com)
 
 ## My Coding Arsenal 🛠️
 
