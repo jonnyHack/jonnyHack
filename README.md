@@ -1,4 +1,4 @@
-# 🦸‍♂️ Jonathan Segev - The Code Conqueror 💻
+# 🦸‍♂️ Jonathan Segev 🌟
 
 ## Welcome to My World of Code! 🌍
 
